@@ -7,6 +7,5 @@
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
   "doTasks": true,
-  "playGames": true,
-  "referralCode": ""
+  "playGames": true
 }
