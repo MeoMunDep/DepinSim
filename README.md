@@ -9,7 +9,7 @@
 - Group: [Link](t.me/KeoAirDropFreeNe)
 - Channel: [Link](t.me/KeoAirDropFreeNee)
 
-> Help me with your referral [Link](https://t.me/DepinSimBot/start?startapp=m40xcwexhK)
+> Help me with your referral: [Link](https://t.me/DepinSimBot/start?startapp=m40xcwexhK)
 
 ## 🚀 Getting Started
 
